@@ -429,7 +429,7 @@ button{
 
 .why-choose-container h2{
   font-size: var(--FS-800);
-  font-weight: 900;
+  font-weight: bold;
   line-height: 40px;
   margin-bottom: 24px;
   align-self: center;
