@@ -1,30 +1,3 @@
-
-/* @font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Medium.ttf);
-}
-@font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Regular.ttf);
-}
-@font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Semibold.ttf);
-}
-@font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Bold.ttf);
-}
-@font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Medium.ttf);
-}
-@font-face {
-  font-family: 'Gilroy';
-  src: url(fonts/Gilroy-Extrabold.ttf);
-}
- */
-
 :root{
 
   /* font colors */
@@ -35,12 +8,6 @@
   --NEUTRAL : #FFF;
   --BG-COLOR-GRAY: #3284FF21;
 
-  /* font weight   600, bold, semibold, and medium*/
-
-  --FW-100 : 100; 
-  --FW-200 : 300;
-  --FW-300 : 400;
-  --FW-400 : 600;
 
   /* font size */
 
